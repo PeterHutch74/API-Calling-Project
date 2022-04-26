@@ -11,6 +11,7 @@
 		3F785E1A27B1810D00DBD675 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F785E1927B1810D00DBD675 /* ContentView.swift */; };
 		3F785E1C27B1811000DBD675 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F785E1B27B1811000DBD675 /* Assets.xcassets */; };
 		3F785E1F27B1811100DBD675 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F785E1E27B1811100DBD675 /* Preview Assets.xcassets */; };
+		3FFD7062280F0B8E00CF24E8 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFD7061280F0B8E00CF24E8 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F785E1B27B1811000DBD675 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F785E1E27B1811100DBD675 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F785E2027B1811100DBD675 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FFD7061280F0B8E00CF24E8 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F785E1727B1810D00DBD675 /* API_Calling_ProjectApp.swift */,
 				3F785E1927B1810D00DBD675 /* ContentView.swift */,
+				3FFD7061280F0B8E00CF24E8 /* SwiftyJSON.swift */,
 				3F785E1B27B1811000DBD675 /* Assets.xcassets */,
 				3F785E2027B1811100DBD675 /* Info.plist */,
 				3F785E1D27B1811100DBD675 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FFD7062280F0B8E00CF24E8 /* SwiftyJSON.swift in Sources */,
 				3F785E1A27B1810D00DBD675 /* ContentView.swift in Sources */,
 				3F785E1827B1810D00DBD675 /* API_Calling_ProjectApp.swift in Sources */,
 			);
